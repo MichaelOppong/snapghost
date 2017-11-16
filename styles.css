@@ -1,0 +1,38 @@
+img {
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    width: 300px;
+}
+
+#hide {
+    display: inline-block;
+    margin-left: 10px;
+    padding: 25px;
+    background-color: aqua;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+#show {
+    display: inline-block;
+    margin-left: 25px;
+    padding: 25px;
+    background-color: pink;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.buttons {
+    margin-left: 115px;
+}
+
+h1 {
+    font-family: arial;
+    margin-left: 300px;
+}
+
+.main {
+    max-width: 500px;
+    margin: 0 auto;
+}
